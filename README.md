@@ -22,9 +22,12 @@ Then If The quantity is Avilable the bill will be generated
 The information About the transaction will be upated in **sales.json**<br /> 
 ![image](https://user-images.githubusercontent.com/59435891/131968191-268fe00a-142d-4407-b85d-942943d59173.png)
 
-The new quatity in the inventory will be updated automatically.<br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+The new quatity in the inventory will be updated automatically.<br /> <br /> <br /> <br /> <br /> 
 
 
 If you want to **Add** new product to the Inventory You can add 
+<br />
+![image](https://user-images.githubusercontent.com/59435891/131969467-37bc0637-c1d3-41e9-946b-72cda2b838d5.png)
+
 
 
