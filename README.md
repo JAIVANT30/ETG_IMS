@@ -1,7 +1,7 @@
 # ETG_ Inventory management system
 
 This inventory contains 30 different juice products.<br /> 
-These products are stored in Records.json<br /> 
+These products are stored in** Records.json**<br /> 
 The products are:<br /> 
 ![image](https://user-images.githubusercontent.com/59435891/131966653-143d160c-f279-42cc-bf85-92b265224e5f.png)
 
